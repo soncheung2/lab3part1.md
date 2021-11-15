@@ -1,0 +1,30 @@
+---
+#1. Summary of the paper
+This paper examines and shows the importance of information systems (IS) capability and information technology (IT) strategy are to e-business. It also reflects the reasons behind why both IS capability and IT strategy are needed in e-business, and the common mistakes people often make which lead to poor performance.
+
+#2. Keywords
+- IT strategy implementation
+- IS capability
+- information systems
+- e-business
+
+#3. Main approches
+The paper includes a survey to examine how the IS capability and IT strategy implementation could affect e-business performance.
+
+#4. Major strenghs
+4.1. It has a clear explaination on the importance of IT strategy implementation and IS capability and how they are correlated
+4.2. It has a clear explaination on the factors which could affect and determine the sucess of IT strategy implementation
+4.3. It has a clear explaination on the problems that could arise in IS strategy planning
+
+#5. Major weaknesses
+The research findings may not be able to apply in other countries or regions as only firms in Taiwan are the primary research subjects.
+
+#6. What I learnt from the paper
+| Option | Description |
+|------- | ----------- |
+| New problems | 1. Even if the enerprises had developed solid plans for IT strategy and IS planning, they were unable to implement them.|
+| ------------- | 2. There are many strategies that appeared only in plans and were not implemented.                      |
+| reasons that caused the above problems | Implemetation is not considered during the plannings |
+
+#7. Other comments
+no
